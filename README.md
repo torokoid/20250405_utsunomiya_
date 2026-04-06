@@ -74,7 +74,7 @@ body::before {
   height: 100vh;
 
   /* 1. まずは従来のJPGを指定（WebP非対応ブラウザ用） */
-  background-image: url(https://torokoid.github.io/20260405_utsunomiya_/20260405_003.JPG);
+  background-image: url(https://torokoid.github.io/20260405_utsunomiya_/blob/main/20260405_003.JPG);
   
   /* 2. 次にWebPを指定（WebP対応ブラウザはここで上書きされる） */
   background-image: url(https://github.com/torokoid/20260406_utsunomiya_/blob/main/20260406_003.webp);
