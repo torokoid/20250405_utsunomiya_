@@ -31,7 +31,7 @@ font-size: 1.5em;
 line-height: 200%;
 padding: 10px;}
 
-
+/*
 main {
 background-color: rgba(255, 255, 255, 0.5);
 }
@@ -39,7 +39,7 @@ background-color: rgba(255, 255, 255, 0.5);
 section {
 background-color: rgba(0, 225, 0, 0.3);
 }
-
+*/
 
 /* 点滅 */
 .blinking{
@@ -85,7 +85,7 @@ body::before {
   background-repeat: no-repeat;
   -webkit-background-size: cover; /* Android4用 */
 }
-
+/*
 a.p:hover {
 position: relative;
 text-decoration: none;
@@ -107,7 +107,7 @@ width: 800px;
 screen and (orientation: landscape) {
 p.note { display: none; }
 }
-
+*/
 
     
 .media-container {
